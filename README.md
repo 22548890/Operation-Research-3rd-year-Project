@@ -15,4 +15,6 @@ We were given adjacency matrices of different sizes ranging from 5x9 to 500x60.
 Using the data we had to design our own algorithm that would divide and group the nodes equally
 and so that their colour crossings were at a minimum. 
 
+The report (.pdf) explains the logic and method of application in RStudio, as well as how the algorithm can be improved.
+
 #### I achieved 80% for this assignment.
